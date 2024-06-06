@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311188147451",
+    "project_id": "flutterthimarapp",
+    "storage_bucket": "flutterthimarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311188147451:android:8255ed4da45ca0690d345e",
+        "android_client_info": {
+          "package_name": "com.example.thimar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUBEeuwh-51UpWl0xGb7eh19HNq2xWjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
